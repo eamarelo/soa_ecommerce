@@ -1,5 +1,7 @@
 # SOA_ECOMMERCE
 
+This is the repository of the SOA project of Sulivan, Jp, Alhouseyny, Elies.
+
 ## DIAGRAMS ACTIVITY
 
 ### catalogue feature
@@ -21,7 +23,6 @@
 ### SAV feature
 
 [Here you can find diagrams for sav's features](https://github.com/eamarelo/soa_ecommerce/tree/master/sav)
-
 
 
 ## CMD
